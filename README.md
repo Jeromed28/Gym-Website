@@ -1,4 +1,4 @@
-# Intrepide
+# Gym Website
 
 ## Gym fitness website using React Js + TypeScript
 
